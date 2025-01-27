@@ -2,7 +2,7 @@ console.log("this is a message");
 
 const addButton = document.querySelector(".addList");
 const inputBox = document.querySelector(".inputBox");
-const list = document.querySelector("ul"); 
+const list = document.querySelector(".item-list"); 
 
 addButton.addEventListener("click", (event) => {
     const inputValue = inputBox.value.trim();
