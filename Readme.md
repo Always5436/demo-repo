@@ -20,7 +20,6 @@ Welcome to the demo repository! This project is created for testing GitHub funct
 
 2. Navigate to the project directory:
 
-
    ```bash
    cd demo-repo
    ```
@@ -35,3 +34,4 @@ Feel free to fork the repository and submit pull requests with your changes.
 
 This project is open source and available under the MIT License.
 
+changes
