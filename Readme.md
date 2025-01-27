@@ -6,7 +6,6 @@ Welcome to the demo repository! This project is created for testing GitHub funct
 
 - `Readme.md`: This file contains information about the repository.
 - `anotherFile.txt`: A sample text file.
-- `newFile.js`: A JavaScript file for testing.
 - `test-brach-file.txt`: A test branch file.
 - `test.txt`: Another text file for testing.
 
@@ -33,5 +32,3 @@ Feel free to fork the repository and submit pull requests with your changes.
 ## License
 
 This project is open source and available under the MIT License.
-
-changes
