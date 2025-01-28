@@ -1,1 +1,7 @@
-created newB branchgit a
+
+created new file
+
+this is newB
+
+created newB branchgit
+
